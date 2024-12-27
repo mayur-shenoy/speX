@@ -1,0 +1,16 @@
+
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+
+# Ignore data files
+*.db
+*.sqlite
+*.csv
+*.json
+*.log
+*.bak
+*.backup
